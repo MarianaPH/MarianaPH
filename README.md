@@ -5,6 +5,7 @@
 
 - How to reach me marianaph04@outlook.com
 - My passions are learning and practice so I can be better every day
+- Hobbies: spend time with my family 
 
 ### Connect with me:
 
