@@ -1,4 +1,4 @@
-### Hello, I'm Mariana - [website] 👋
+### Hello, I'm Mariana 👋
 [![Website](https://img.shields.io/website?label=marianaph.github.io&style=for-the-badge&url=https://marianaph.github.io)](https://marianaph.github.io)
 
 ## I'm a Cibernetic engineering student and Web developer.
